@@ -1,0 +1,35 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme Corporation</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:42:56 +0200</lastBuildDate>
+    
+        <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title>Senor</title>
+<link>https://example.org/viajes/senor/</link>
+<pubDate>Wed, 21 Sep 2022 09:42:56 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/senor/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>https://example.org/curriculum/</link>
+<pubDate>Wed, 21 Sep 2022 08:54:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>
