@@ -17,9 +17,9 @@ menu:
       name: Señor
       url: /viajes/senor 
       weight: 40 
-    - identifier: curriculum 
-      name: CURRICULUM
-      url: /curriculum
+    - identifier: blog 
+      name: Blog
+      url: /blog
       weight: 50 
     - identifier: about 
       name: Acerca de 
